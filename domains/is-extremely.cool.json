@@ -1,1 +1,25 @@
-{}
+{
+  "is-extremely.cool.": [
+    {
+      "name": "is-extremely.cool.",
+      "ttl": 300,
+      "type": "A",
+      "value": "89.106.200.1"
+    },
+    {
+      "name": "is-extremely.cool.",
+      "ttl": 300,
+      "type": "AAAA",
+      "value": "2a12:5240::1"
+    }
+  ],
+  "www.is-extremely.cool.": [
+    {
+      "name": "www.is-extremely.cool.",
+      "ttl": 300,
+      "type": "CNAME",
+      "value": "ismakingsomethingdotcool.pages.dev."
+    }
+  ],
+  "//": "All records below are user-generated and should be in alphabetical order."
+}

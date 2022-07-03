@@ -1,1 +1,24 @@
-{}
+{
+  "coolmains.com.": [
+    {
+      "name": "coolmains.com.",
+      "ttl": 300,
+      "type": "A",
+      "value": "89.106.200.1"
+    },
+    {
+      "name": "coolmains.com.",
+      "ttl": 300,
+      "type": "AAAA",
+      "value": "2a12:5240::1"
+    }
+  ],
+  "www.coolmains.com.": [
+    {
+      "name": "www.coolmains.com.",
+      "ttl": 300,
+      "type": "CNAME",
+      "value": "ismakingsomethingdotcool.pages.dev."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+# coolmains DNS

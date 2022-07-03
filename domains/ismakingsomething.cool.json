@@ -1,0 +1,117 @@
+{
+  "ismakingsomething.cool.": [
+    {
+      "name": "ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "A",
+      "value": "89.106.200.1"
+    },
+    {
+      "name": "ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "AAAA",
+      "value": "2a12:5240::1"
+    }
+  ],
+  "www.ismakingsomething.cool.": [
+    {
+      "name": "www.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "CNAME",
+      "value": "ismakingsomethingdotcool.pages.dev."
+    }
+  ],
+  "//": "All records below are user-generated and should be in alphabetical order.",
+  "cat.ismakingsomething.cool.": [
+    {
+      "name": "cat.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns0.1984.is."
+    },
+    {
+      "name": "cat.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns1.1984hosting.com."
+    },
+    {
+      "name": "cat.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns1.1984.is."
+    },
+    {
+      "name": "cat.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns2.1984.is."
+    },
+    {
+      "name": "cat.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns2.1984hosting.com."
+    }
+  ],
+  "kagl.ismakingsomething.cool.": [
+    {
+      "name": "kagl.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns1.kagl.me"
+    },
+    {
+      "name": "kagl.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns2.kagl.me"
+    }
+  ],
+  "tnix.ismakingsomething.cool.": [
+    {
+      "name": "tnix.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns0.1984.is."
+    },
+    {
+      "name": "tnix.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns1.1984hosting.com."
+    },
+    {
+      "name": "tnix.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns1.1984.is."
+    },
+    {
+      "name": "tnix.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns2.1984.is."
+    },
+    {
+      "name": "tnix.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns2.1984hosting.com."
+    }
+  ],
+  "william.ismakingsomething.cool.": [
+    {
+      "name": "william.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns1.packetframe.com."
+    },
+    {
+      "name": "william.ismakingsomething.cool.",
+      "ttl": 300,
+      "type": "NS",
+      "value": "ns2.packetframe.com."
+    }
+  ]
+}

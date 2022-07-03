@@ -1,0 +1,16 @@
+on:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  updateDns:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: cd script && node index.js
+        env:
+          TOKEN: ${{ secrets.PACKETFRAME_TOKEN }}

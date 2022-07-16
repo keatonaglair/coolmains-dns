@@ -2,7 +2,7 @@ let token = process.env.TOKEN
 
 import coolmainsjson from '../domains/coolmains.com.json' assert { type: 'json' };
 import isextremelycooljson from '../domains/is-extremely.cool.json' assert { type: 'json' };
-// import ismakingsomethingcooljson from '../domains/ismakingsomething.cool.json' assert { type: 'json' };
+import ismakingsomethingcooljson from '../domains/ismakingsomething.cool.json' assert { type: 'json' };
 
 let etlds = [
   { records: coolmainsjson, zone: '0785e625-fa6a-4a78-835f-79c97e0bd6d0' },

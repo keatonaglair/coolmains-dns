@@ -10,7 +10,7 @@ let etlds = [
     records: isextremelycooljson,
     zone: '41e011e3-919a-45d4-af70-5d06553b763a',
   },
-  // { records: ismakingsomethingcooljson, zone: '8ea01045-e52d-4f49-bdb1-31474c088119' },
+  { records: ismakingsomethingcooljson, zone: '8ea01045-e52d-4f49-bdb1-31474c088119' },
 ];
 
 for (let etld of etlds) {
